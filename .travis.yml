@@ -1,2 +1,6 @@
 # TODO! :-)
 # Get it to sync the content to my CMS
+
+language: ruby
+rvm:
+  - 2.1.5p273
